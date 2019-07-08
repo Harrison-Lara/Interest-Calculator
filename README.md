@@ -1,1 +1,3 @@
 # Interest-Calculator
+
+A real estate agent needs your help to build an application, “Interest Calculator.” The application asks the user (buyer) for the home price, the down payment –if any-, and the user’s credit score. Based on these information, your application will calculate the interest rate for the user (see page 2) and calculate the payment of the house per month. The application will show the buyer the different monthly payments and the total interest if the price is paid over 10 to 25 years. See the following screenshot of the program’s demo. Your final application should look the same.
